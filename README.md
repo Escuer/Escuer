@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, Eu sou o Eduardo Padilha Escuer. 👋
 
-<!--
-**Escuer/Escuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou um estudante de 19 anos, apaixonado por tecnologia e atualmente no segundo semestre de **Ciência da Computação**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este GitHub serve como um portfólio dinâmico e um registro do meu crescimento contínuo na área de desenvolvimento. Aqui você encontrará meus projetos acadêmicos, estudos pessoais e experimentos com novas tecnologias.
+
+
+---
+
+#### 📬 Fale comigo:
+- **LinkedIn:** (https://www.linkedin.com/in/eduardo-padilha-escuer-799817369)
+- **Email:** [duduescuerr@gmail.com)
