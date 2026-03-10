@@ -1,4 +1,4 @@
-### Olá, Eu sou o Eduardo Padilha Escuer. 👋
+### Olá, Eu sou o Eduardo Padilha Escuer. 
 
 
 Sou um estudante de 19 anos, apaixonado por tecnologia e atualmente no segundo semestre de **Ciência da Computação**.
@@ -11,12 +11,19 @@ Aulas que eu tive no Primeiro Semestre
 -Programação FrontEnd Design 
 -Inglês Técnico 
 
-Atualmente estou no segundo semestre, e tenho as seguintes aulas 
+Aulas que eu tive no segundo semestre
 -Banco de dados
 -Programação Orientada a Objetos (Java)
 -Programação TypeScript
 -Segurança de Sistemas
 -Tópicos de Sistemas Avançados 
+
+Atualmente estou no terceiro semestre, com as seguintes aulas
+-Banco de Dados NoSQL
+-Calculo 1
+-Estrutura de dados (Em C)
+-Front End DeVops
+-Desenvolvimento mobile (Em Java)
 
 ---
 
